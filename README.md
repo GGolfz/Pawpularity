@@ -8,6 +8,9 @@
 
 **Logistic Regression CV (C=3)**: 22.91129
 
-**XGBoost**: Not submit yet
+### 6 Oct 2021 (Rank 521 at 6 Oct 11.01)
 
-**LightGBM**: Not submit yet
+**XGBoost**: 20.57422 (Rank 542)
+
+**LightGBM**: 20.52191 (Rank 521)
+
