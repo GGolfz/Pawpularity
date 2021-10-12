@@ -14,3 +14,10 @@
 
 **LightGBM**: 20.52191 (Rank 521)
 
+### 11 Oct 2021 (Rank 452)
+
+**Efficient Net**: 19.08369 (Rank 452)
+
+### 12 Oct 2021 
+
+**VGG16**: Wait for submit 
