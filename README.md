@@ -18,6 +18,8 @@
 
 **Efficient Net**: 19.08369 (Rank 452)
 
-### 12 Oct 2021 
+### 13 Oct 2021 (Rank 471)
 
-**VGG16**: Wait for submit 
+**VGG16**: 21.53401
+
+**Efficient Net (with Ranger)**: 19.03215 (Rank 471)
